@@ -4,3 +4,6 @@
 remote_theme: "riggraz/no-style-please"
 title: "WC96's Developer Blog"
 description: "Keeping track of progress during the 2022 Learn Jam!"
+baseurl: /devblog
+markdown: redcarpet
+pygments: true
