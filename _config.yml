@@ -1,4 +1,5 @@
 #theme: "jekyll-theme-hacker"
-remote_theme: "P0WEX/Gesko"
+#remote_theme: "P0WEX/Gesko"
+remote_theme: "Trybnetic/minimalist"
 title: "WC96's Developer Blog"
 description: "Keeping track of progress during the 2022 Learn Jam!"
