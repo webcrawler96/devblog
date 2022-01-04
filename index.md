@@ -4,7 +4,7 @@ The purpose of this blog is to record my progress during the 2022 Learn Jam!
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ 'eriognertiontieghpnergihouhnhtiounthiu' }}">{{ post.title }}</a>
+      <a href="{{ 'www.github.com' }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
