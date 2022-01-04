@@ -6,7 +6,7 @@ author: WC96
 
 # Welcome to the Game!
 
-```**Hello World!**```
+```Hello World!```
 This is my first blog post. I am making this blog to keep track of my progress during a game jam. In keeping with the jam's schedule I will be updating this blog with updates on my learning progression as I tackle basic game dev concepts throughout the year.
 
 The first few months (Jan - March 2022) should mostly be marked with recaps, thoughtful moments and (hopefully) tiny example project showcases as I traverse this new field.
