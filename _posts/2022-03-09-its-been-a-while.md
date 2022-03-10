@@ -10,7 +10,7 @@ It’s been a while since my first post. Predominantly because I’ve been occup
 Gdscript is very different from lua, which is part of what drew me to give it a chance. I started working on a little ‘Pong’ clone to get acquainted with some basics in Godot. Hopefully some actual development progress posts on it can start surfacing here.
 
 [//]: # (![Pong thing](/resources/images/pongthing.png))
-<img src="/resources/images/pongthing.png" alt="pongthing" width="200"/>
+<img src="/resources/images/pongthing.png" alt="pongthing" width="400"/>
 
 I’ll be increasingly active as the semester nears it’s close. Things are going well with school so far (much better than last year already) so I should be on top of my time management well enough to start making better use of this blog.
 My next post will cover some plans to expand upon my basic pong ‘clone’.
